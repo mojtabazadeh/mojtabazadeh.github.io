@@ -10,7 +10,7 @@ redirect_from:
 
 ### About Me 
 ___
-saeed [Industrial and Operations Engineering](https://ioe.engin.umich.edu) of the University of Michigan (August 2022). I had the pleasure to be advised by Professor [Mark P. Van Oyen](https://ioe.engin.umich.edu/people/van-oyen-mark-p/). I also obtained an MSc in **Statistics** at the [Department of Statistics](https://lsa.umich.edu/stats) of the University of Michigan. I have started a postdoctoral fellow position at the [Harvard Kennedy School](https://www.hks.harvard.edu). 
+saeed [Industrial and Operations Engineering](https://io.umich.edu) of the University of Michigan (August 2022). I had the pleasure to be advised by Professor [Mark P. Van Oyen](https://ioe.engin.umich.edu/people/van-oyen-mark-p/). I also obtained an MSc in **Statistics** at the [Department of Statistics](https://ledu/stats) of the University of Michigan. I have started a postdoctoral fellow position at the [HarSchool](https://www.hksrd.edu). 
 
 [comment]: <> (Prior to joining the University of Michigan, I earned an MSc in Industrial Engineering and Operations Research from the University of Tehran.)
 <!---***Update:** <span style="color:#2874A6">I am on the academic job market. </span> I will be available for interviews at INFORMS Annual Meeting 2022, where I will also be presenting my work in the following session:
@@ -49,13 +49,7 @@ Recent and Upcoming Talks
 ___
 * Winner, Richard and Eleanor Towner Prize for Distinguished Academic Achievement, 2022
 * Winner, Rackham Outstanding Graduate Student Instructor Award, 2022
-* Finalist, CHOM Best Paper Competition (POMS), 2022
-* Winner, IOE Richard C. Wilson Prize for Best Student Paper on Service Systems, 2021
-* Rackham Graduate Student Research Grant, 2021
-* Finalist, Seth Bonder Scholarship, INFORMS Health Applications Society, 2020
-* Second Place, INFORMS Decision Analysis Society Best Student Paper Competition, 2020
-* Winner, Joel and Lorraine Brown Graduate Student Instructor of the Semester Award, 2020
-* Rackham Travel Grant, University of Michigan, 2018, 2020, 2021
+
 * Rackham Graduate Fellowship, University of Michigan, 2018
 * Graduate Student of the Year, College of Engineering, University of Tehran, 2017
 
