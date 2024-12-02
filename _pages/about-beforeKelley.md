@@ -8,18 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-### Mohammad Zhalechian
+### Saeed Mojtabazadeh
 ___
-I am an Assistant Professor of [Operations and Decision Technologies](https://kelley.iu.edu/faculty-research/departments/operations-decision-technologies/index.html) at the [Kelley School of Business](https://kelley.iu.edu). Prior to joining Kelley, I spend a year as a postdoctoral fellow at the [Harvard Kennedy School](https://www.hks.harvard.edu). I received my Ph.D. in Industrial and Operations Engineering from the University of Michigan. Previously, I obtained an M.A. in Statistics from the University of Michigan. 
+saeed1 [Operations and Decision Technologies](https://kelley.iu.edu/faculty-research/departments/operations-decision-technologies/index.html) saeed [Kelley School of Business](https://kelley.iu.edu). saeed2 [Harvard Kennedy School](https://www.hks.harvard.edu).
 
 <!---under the supervision of [Mark P. Van Oyen](https://ioe.engin.umich.edu/people/van-oyen-mark-p/). I also obtained an MSc in Statistics from the University of Michigan. -->
 
 <!--- ### Research Interests
 ___
 -->
-I am interested in data-driven analytics to solve a wide range of problems in healthcare and service operations. My current research focuses on developing machine learning and optimization methods to make data-driven and informed decisions for a wide range of healthcare and service operations applications. 
-
-My research is motivated by real-world needs and driven by many problems with both practical impact and interesting theoretical challenges. Over the years, I have collaborated closely with healthcare practitioners on several projects, spanning from deploying an online Bed Assignment Tool at the Michigan Medicine, designing a prediction tool Kellogg center and Medisoft at UK, to proposing a new regulatory guideline for the FDA's Premarket Approval Pathway.
+saeed 3
 
 <!---My research interests lie at the interface of statistical machine learning theory and data-driven optimization.
 My current research aims to develop personalized decision-making methods through design
