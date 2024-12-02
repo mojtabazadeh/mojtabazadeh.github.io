@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: ""
+title: "about1"
 excerpt: ""
 author_profile: true
 redirect_from: 
