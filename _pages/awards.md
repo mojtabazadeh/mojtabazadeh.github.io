@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /saeed1/
+permalink: /awards/
 author_profile: true
 ---
 
