@@ -10,7 +10,7 @@ redirect_from:
 
 ### About Me 
 ___
-I recently completed my Ph.D. in **Operations Research** at the Department of [Industrial and Operations Engineering](https://ioe.engin.umich.edu) of the University of Michigan (August 2022). I had the pleasure to be advised by Professor [Mark P. Van Oyen](https://ioe.engin.umich.edu/people/van-oyen-mark-p/). I also obtained an MSc in **Statistics** at the [Department of Statistics](https://lsa.umich.edu/stats) of the University of Michigan. I have started a postdoctoral fellow position at the [Harvard Kennedy School](https://www.hks.harvard.edu). 
+saeed [Industrial and Operations Engineering](https://ioe.engin.umich.edu) of the University of Michigan (August 2022). I had the pleasure to be advised by Professor [Mark P. Van Oyen](https://ioe.engin.umich.edu/people/van-oyen-mark-p/). I also obtained an MSc in **Statistics** at the [Department of Statistics](https://lsa.umich.edu/stats) of the University of Michigan. I have started a postdoctoral fellow position at the [Harvard Kennedy School](https://www.hks.harvard.edu). 
 
 [comment]: <> (Prior to joining the University of Michigan, I earned an MSc in Industrial Engineering and Operations Research from the University of Tehran.)
 <!---***Update:** <span style="color:#2874A6">I am on the academic job market. </span> I will be available for interviews at INFORMS Annual Meeting 2022, where I will also be presenting my work in the following session:
