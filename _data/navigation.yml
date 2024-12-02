@@ -10,4 +10,7 @@ main:
     url: /awards/  
 
   - title: "CV"
-    url: /cv/    
+    url: /cv/
+
+  - title: "Saeed"
+    url: /cv/ 
