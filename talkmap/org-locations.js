@@ -1,21 +1,21 @@
 var addressPoints = [
   [
-    "Berkeley CA, USA",
+    "Zanjan, Iran",
     37.8708393,
     -122.2728638
   ],
   [
-    "London, UK",
+    "Zanjan, Iran",
     51.5073219,
     -0.1276473
   ],
   [
-    "San Francisco, California",
+    "Zanjan, Iran",
     37.7792808,
     -122.4192362
   ],
   [
-    "Los Angeles, CA",
+    "Zanjan, Iran",
     34.0543942,
     -118.2439408
   ]
