@@ -12,7 +12,7 @@ redirect_from:
 ___
 Dr. Saeed Mojtabazadeh is the pioneering geotechnical engineering postdoctoral researcher in Iran, specializing in computational algorithms. Since 2016, Dr. Mojtabazadeh has been dedicated to advanced numerical modeling in seismic geomechanics. His Ph.D. thesis and postdoctoral research focus on investigating SH-wave propagation in orthotropic mediums, along with topographic features, utilizing an exclusive approach known as the Direct Half-Space Time-Domain Boundary Element Method. He has developed multiple numerical approaches, including the Boundary Element Method (BEM), Finite Element Method (FEM), and Hybrid methods, applied to seismic analysis in geotechnical engineering.
 
-### Research Interests and Focus Areas:
+### Research Interests and Focus Areas
 ___
 * Time-domain boundary element method (BEM).
 * Numerical modeling in geotechnical engineering.
@@ -23,11 +23,4 @@ ___
 * Solving geotechnical problems using limit equilibrium methods, limit analysis, and stress characteristic lines.
 * Foundation engineering, including settlement and bearing capacity of various foundations, excavation stabilization methods, and soil improvement techniques.
 
-### Papers
-___
-* [The Orthotropy Effect of Underground Inclusion on the Seismic Response of Ground Surface](https://drive.google.com/file/d/1gZ8aF2_FtYW0XBLlXkPnH97Sx1cUNRxv/view?usp=drive_link), [In Persian] (2024).      
-
-* [Data-driven Hospital Admission Control: A Learning Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3653433), Operations Research (2023).     
-
-* [Contextual Learning with Online Convex Optimization with Applications to Medical Decision-Making](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3501316), Forthcoming at Management Science.  
 
