@@ -9,22 +9,13 @@ author_profile: true
 ___
 ### Papers
 ___
-* [The Orthotropy Effect of Underground Inclusion on the Seismic Response of Ground Surface](https://drive.google.com/file/d/1gZ8aF2_FtYW0XBLlXkPnH97Sx1cUNRxv/view?usp=drive_link), [In Persian] (2024).      
-
-* [Data-driven Hospital Admission Control: A Learning Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3653433), Operations Research (2023).     
-
-* [Contextual Learning with Online Convex Optimization with Applications to Medical Decision-Making](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3501316), Forthcoming at Management Science.  
+* [27- The Orthotropy Effect of Underground Inclusion on the Seismic Response of Ground Surface](https://drive.google.com/file/d/1gZ8aF2_FtYW0XBLlXkPnH97Sx1cUNRxv/view?usp=drive_link), [In Persian] (2024).
+Published at **Sharif Journal of Civil Engineering (SJCE)**
+Saeed Mojtabazadeh-Hasanlouei, Mehdi Panji & Mohsen Kamalian  
 
 
 
-
-
-
-
-
-* [The Orthotropy Effect of Underground Inclusion on the Seismic Response of Ground Surface](https://drive.google.com/file/d/1gZ8aF2_FtYW0XBLlXkPnH97Sx1cUNRxv/view?usp=drive_link), [In Persian] (2024).
-Published at **Sharif Journal of Civil Engineering (SJCE)**  
-* <span style="color:#black">Saeed Mojtabazadeh-Hasanlouei, Mehdi Panji, Mohsen Kamalian</span>
+* <span style="color:#black"></span>
 Saeed Mojtabazadeh  
   * <span style="color:#black">Finalist, CHOM Best Paper Competition (POMS), 2022 </span>
   * <span style="color:#black">Finalist, INFORMS MSOM Best Student Paper Competition, 2021 </span>
