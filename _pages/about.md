@@ -10,10 +10,7 @@ redirect_from:
 
 ### About Me
 ___
-I am an Assistant Professor of [Operations and Decision Technologies](https://kelley.iu.edu/faculty-research/departments/operations-decision-technologies/index.html) at the [Kelley School of Business](https://kelley.iu.edu). Prior to joining Kelley, I spent a year as a postdoctoral fellow at the [Harvard Kennedy School](https://www.hks.harvard.edu). I received my Ph.D. in Industrial and Operations Engineering from the [University of Michigan](https://ioe.engin.umich.edu). Previously, I obtained an M.A. in Statistics from the University of Michigan. 
-
-I am interested in data-driven analytics to solve a wide range of problems in healthcare, service operations, and public policy. 
-<!---under the supervision of [Mark P. Van Oyen](https://ioe.engin.umich.edu/people/van-oyen-mark-p/). I also obtained an MSc in Statistics from the University of Michigan. ---->
+Dr. Saeed Mojtabazadeh is the pioneering geotechnical engineering postdoctoral researcher in Iran, specializing in computational algorithms. Since 2016, Dr. Mojtabazadeh has been dedicated to advanced numerical modeling in seismic geomechanics. His Ph.D. thesis and postdoctoral research focus on investigating SH-wave propagation in orthotropic mediums, along with topographic features, utilizing an exclusive approach known as the Direct Half-Space Time-Domain Boundary Element Method. He has developed multiple numerical approaches, including the Boundary Element Method (BEM), Finite Element Method (FEM), and Hybrid methods, applied to seismic analysis in geotechnical engineering.
 
 ### Research & Collaborations
 ___
@@ -23,9 +20,9 @@ My research is motivated by real-world needs and driven by many problems with bo
 
 I am a research fellow at the [Center for the Business of Life Sciences](https://kelley.iu.edu/faculty-research/centers-institutes/business-of-life-sciences/index.html) and a faculty affiliate at the [Institute of Business Analytics](https://kelley.iu.edu/faculty-research/centers-institutes/business-analytics/index.html) at Kelley.
 
-### Selected Papers
+### Papers
 ___
-* [Harmonizing Safety and Speed: A Human-Algorithm Approach to Enhance the FDA's Medical Device Clearance.  Policy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4863134), Under Revision at Management Science.       
+* [The Orthotropy Effect of Underground Inclusion on the Seismic Response of Ground Surface [In Persian] (2024)](https://drive.google.com/file/d/1gZ8aF2_FtYW0XBLlXkPnH97Sx1cUNRxv/view?usp=drive_link).      
 
 * [Data-driven Hospital Admission Control: A Learning Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3653433), Operations Research (2023).     
 
