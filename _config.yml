@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Dr. Saeed Mojtabazadeh"
 title_separator          : "-"
-name                     : &name "Saeed Mojtabazadeh"
+name                     : &name "Dr. Saeed Mojtabazadeh"
 description              : &description "TBD"
 url                      : https://mojtabazadeh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Saeed Mojtabazadeh"
+  name             : "Dr. Saeed Mojtabazadeh"
   avatar           : "Saeed2.jpg"
   bio              : "mojtabazadeh@outlook.com"
   location         : 
