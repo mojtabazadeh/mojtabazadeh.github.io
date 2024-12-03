@@ -9,8 +9,8 @@ author_profile: true
 ___
 ### Papers
 ___
-* [27- The Orthotropy Effect of Underground Inclusion on the Seismic Response of Ground Surface](https://drive.google.com/file/d/1gZ8aF2_FtYW0XBLlXkPnH97Sx1cUNRxv/view?usp=drive_link), [In Persian] (2024).
-Published at **Sharif Journal of Civil Engineering (SJCE)**
+* [27- The Orthotropy Effect of Underground Inclusion on the Seismic Response of Ground Surface](https://drive.google.com/file/d/1gZ8aF2_FtYW0XBLlXkPnH97Sx1cUNRxv/view?usp=drive_link), [In Persian] (2024).  
+Published at **Sharif Journal of Civil Engineering (SJCE)**  
 Saeed Mojtabazadeh-Hasanlouei, Mehdi Panji & Mohsen Kamalian  
 
 
@@ -23,7 +23,7 @@ Saeed Mojtabazadeh
   * <span style="color:#black">Second Place, INFORMS Decision Analysis Society (DAS) Best Student Paper, 2020 </span>  
   
 * [Saeed Mojtabazadeh ](https://papers.ssrn.c.cfm?abstract_id=3653433)  
-Accepted at **Operations Research**  
+Accepted at **Operations Research**
 Collaboration with St. Joseph Hospital  
 Saeed Mojtabazadeh   
   * <span style="color:#black">Winner of Richard C. Wilson Best Student Paper Award on Service Systems, 2021 </span>
