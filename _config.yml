@@ -84,7 +84,7 @@ author:
   avatar           : "Saeed.jpg"
   bio              : "mojtabazadeh@outlook.com"
   location         : 
-  employer         : "Postdoctoral Fellow in Geotechnical Earthquake Engineering"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YphpjTcAAAAJ&hl=en"
   email            : "mojtabazadeh@outlook.com"
@@ -94,7 +94,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/mojtabazadeh.ir"
   foursquare       : 
   #github           : [metadata]
   google_plus      :
