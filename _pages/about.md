@@ -22,7 +22,7 @@ I am a research fellow at the [Center for the Business of Life Sciences](https:/
 
 ### Papers
 ___
-* [The Orthotropy Effect of Underground Inclusion on the Seismic Response of Ground Surface [In Persian] (2024)](https://drive.google.com/file/d/1gZ8aF2_FtYW0XBLlXkPnH97Sx1cUNRxv/view?usp=drive_link).      
+* [The Orthotropy Effect of Underground Inclusion on the Seismic Response of Ground Surface](https://drive.google.com/file/d/1gZ8aF2_FtYW0XBLlXkPnH97Sx1cUNRxv/view?usp=drive_link), [In Persian] (2024).      
 
 * [Data-driven Hospital Admission Control: A Learning Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3653433), Operations Research (2023).     
 
