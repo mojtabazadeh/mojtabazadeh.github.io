@@ -122,7 +122,7 @@ ___
 
 
   **4.** **[The Effect of Depth Ratio on the Transient Response of Irregular Surface by Periodically Distributed Semi-Sine Shaped Valleys Subjected to Incident SH-Waves](https://drive.google.com/file/d/1JEOWe8YGfqP9p4vx_jpQkGOyLwkBce0U/view?usp=drive_link)**,  [In Persian] (2019).  
-  Published at *11th National Congress on Civil Engineering* 
+  Published at *11th National Congress on Civil Engineering*   
   Mehdi Panji, **Saeed Mojtabazadeh-Hasanlouei**
 
 
