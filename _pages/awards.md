@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "saeed1"
+title: ""
 permalink: /awards/
 author_profile: true
 ---
