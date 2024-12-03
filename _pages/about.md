@@ -14,11 +14,11 @@ Dr. Saeed Mojtabazadeh is the pioneering geotechnical engineering postdoctoral r
 
 ### Research & Collaborations
 ___
-My current research focuses on developing machine learning, human-AI interfaces, and sequential decision-making methods to make data-driven and informed decisions for high-impact problems.
-
-My research is motivated by real-world needs and driven by many problems with both practical impact and interesting theoretical challenges. Over the years, I have collaborated closely with healthcare practitioners and hospitals on several projects, spanning from deploying an online Bed Assignment Tool at Michigan Medicine, designing a Prediction Tool for Tracking Glaucoma Progression at Medisoft in the UK, to proposing a new Regulatory Guideline for the FDA's Premarket Approval Pathway.
-
-I am a research fellow at the [Center for the Business of Life Sciences](https://kelley.iu.edu/faculty-research/centers-institutes/business-of-life-sciences/index.html) and a faculty affiliate at the [Institute of Business Analytics](https://kelley.iu.edu/faculty-research/centers-institutes/business-analytics/index.html) at Kelley.
+🔸 A leading scientific figure in Zanjan province.
+🔸 The first postdoctoral fellow in Geotechnical Engineering in Iran.
+🔸 A researcher in Geotechnical Earthquake Engineering.
+🔸 Patent evaluator at the Science and Technology Park of Zanjan province.
+🔸 Active in cultural, social, and political spheres.
 
 ### Papers
 ___
