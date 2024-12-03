@@ -106,36 +106,36 @@ ___
   Mehdi Panji, **Saeed Mojtabazadeh-Hasanlouei**
 
 
-  **7.** **[]()**,  (2022).  
-  Published at [**]()  
-  **Saeed Mojtabazadeh-Hasanlouei**, Mehdi Panji & Mohsen Kamalian
+  **7.** **[A Half-Plane Time-Domain BEM for SH-Wave Scattering by a Subsurface Inclusion](https://drive.google.com/file/d/1bKwOTYfneImdIUuh86Eejm8cL6DZ1MZ5/view?usp=drive_link)**,  (2019).  
+  Published at [*Computers & Geosciences*](https://www.sciencedirect.com/science/article/abs/pii/S0098300419302997?via%3Dihub)  
+  Mehdi Panji, **Saeed Mojtabazadeh-Hasanlouei** & Farshid Yasemi
 
 
-  **6.** **[]()**,  (2022).  
-  Published at [**]()  
-  **Saeed Mojtabazadeh-Hasanlouei**, Mehdi Panji & Mohsen Kamalian
+  **6.** **[Seismic Amplification Pattern of the Ground Surface in Presence of Twin Unlined Circular Tunnels Subjected to SH-Waves](https://drive.google.com/file/d/1AyQQMtkNy_cftPSbfDCVynkahqEiBjcs/view?usp=drive_link)**,  [In Persian] (2019).  
+  Published at [*Journal of Transportation Infrastructures Engineering*](https://jtie.semnan.ac.ir/article_3994.html?lang=en)  
+  Mehdi Panji, **Saeed Mojtabazadeh-Hasanlouei**
 
 
-  **5.** **[]()**,  (2022).  
-  Published at [**]()  
-  **Saeed Mojtabazadeh-Hasanlouei**, Mehdi Panji & Mohsen Kamalian
+  **5.** **[Transient Response of Irregular Surface by Periodically Distributed Semi-Sine Shaped Valleys: Incident SH Waves](https://drive.google.com/file/d/1pJ7mJ6sQzZxAXbWdD98gxYGmnh52xuEX/view?usp=drive_link)**,  (2019).  
+  Published at [*Journal of Earthquake and Tsunami*](https://www.worldscientific.com/doi/10.1142/S1793431120500050)  
+  Mehdi Panji, **Saeed Mojtabazadeh-Hasanlouei**
 
 
-  **4.** **[]()**,  (2022).  
-  Published at [**]()  
-  **Saeed Mojtabazadeh-Hasanlouei**, Mehdi Panji & Mohsen Kamalian
+  **4.** **[The Effect of Depth Ratio on the Transient Response of Irregular Surface by Periodically Distributed Semi-Sine Shaped Valleys Subjected to Incident SH-Waves](https://drive.google.com/file/d/1JEOWe8YGfqP9p4vx_jpQkGOyLwkBce0U/view?usp=drive_link)**,  [In Persian] (2019).  
+  Published at *11th National Congress on Civil Engineering* 
+  Mehdi Panji, **Saeed Mojtabazadeh-Hasanlouei**
 
 
-  **3.** **[]()**,  (2022).  
-  Published at [**]()  
-  **Saeed Mojtabazadeh-Hasanlouei**, Mehdi Panji & Mohsen Kamalian
+  **3.** **[Time-History Responses on the Surface by Regularly Distributed Enormous Embedded Cavities: Incident SH-Waves](https://drive.google.com/file/d/1Lg6jPmzUWqgbhG9xopzvp6CFQHem3aXe/view?usp=drive_link)**,  (2018).  
+  Published at [*Earthquake Science*](https://www.equsci.org.cn/article/doi/10.29382/eqs-2018-0137-3?pageType=en)  
+  Mehdi Panji, **Saeed Mojtabazadeh-Hasanlouei**
 
 
-  **2.** **[]()**,  (2022).  
-  Published at [**]()  
-  **Saeed Mojtabazadeh-Hasanlouei**, Mehdi Panji & Mohsen Kamalian
+  **2.** **[Investigating the Stability of the Upstream Gable of an Earthen Dam Under a Sudden Drop in Reservoir Water Level, A Case Study: Mashkid Reservoir Dam, Sistan and Baluchestan](https://drive.google.com/file/d/1E61GBRwMwh0APpuqRnQ8Vj2Sch5UJxr7/view?usp=drive_link)**,  [In Persian] (2015).  
+  Published at *2nd National Conference on Soil Mechanics and Foundation Engineering*   
+  **Saeed Mojtabazadeh-Hasanlouei**, Hamed Sarveram
 
 
-  **1.** **[]()**,  (2022).  
-  Published at [**]()  
-  **Saeed Mojtabazadeh-Hasanlouei**, Mehdi Panji & Mohsen Kamalian
+  **1.** **[The Effect of Drainage on the Stability of the Upstream Wall of Earthen Dams During the Rapid Discharge of Reservoir Water, A Case Study: Upper Mashkid Reservoir Dam, Sistan and Baluchestan](https://drive.google.com/file/d/1G9UsGLQevpARt23DOe74mnsnh2TqkVp1/view?usp=drive_link)**,  [In Persian] (2015).  
+  Published at *2nd National Conference on Soil Mechanics and Foundation Engineering*   
+  **Saeed Mojtabazadeh-Hasanlouei**, Hamed Sarveram
