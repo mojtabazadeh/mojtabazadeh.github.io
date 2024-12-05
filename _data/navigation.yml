@@ -1,12 +1,15 @@
 # main links links
 main:
-  - title: "Interests"
+  - title: "The Documentary"
+    url: /interests/
+
+  - title: "Fields of Interest"
     url: /interests/
     
-  - title: "Articles"
+  - title: "Words I’ve Written"
     url: /research/
 
-  - title: "Awards"
+  - title: "Moments of Glory"
     url: /awards/  
 
 
