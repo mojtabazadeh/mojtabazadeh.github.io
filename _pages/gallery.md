@@ -5,6 +5,6 @@ permalink: /gallery/
 author_profile: true
 ---
 
-Image Collection
-
+### Image Collection
+___
 
