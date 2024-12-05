@@ -21,4 +21,6 @@ ___
 * A researcher in Geotechnical Earthquake Engineering.
 * Patent evaluator at the Science and Technology Park of Zanjan province.
 * Active in cultural, social, and political spheres.
+
 ___
+
