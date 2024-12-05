@@ -10,6 +10,9 @@ main:
     url: /research/
 
   - title: "Moments of Glory"
-    url: /awards/  
+    url: /awards/
+
+  - title: "Photo Gallery"
+    url: /gallery/
 
 
