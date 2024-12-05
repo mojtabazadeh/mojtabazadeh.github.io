@@ -67,8 +67,8 @@ og_image                 :  # Open Graph/Twitter default site image
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : # Person or Organization (defaults to Person)
-  name                   : 1 # If the user or organization name differs from the site's name
-  links: http://www.smoj.ir/ # An array of links to social media profiles
+  name                   : # If the user or organization name differs from the site's name
+  links: # An array of links to social media profiles
 
 
 # Analytics
