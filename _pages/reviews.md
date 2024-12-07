@@ -60,4 +60,6 @@ ___
 
 * **Journal of Engineering Mathematics:** 1 reviews
   * Scattering of shallow asymmetric V-shaped canyon under cylindrical SH-wave.
+ 
+ 
 ___
