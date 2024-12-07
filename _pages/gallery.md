@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /GeoWall/
+permalink: /geowall/
 author_profile: true
 ---
 
@@ -24,6 +24,8 @@ ___
   
 * **The 6th GeoWall Competition**
 ___
+
+![Saeed Mojtabazadeh](https://github.com/mojtabazadeh/mojtabazadeh.github.io/blob/main/images/IMG5.jpg?raw=true)   
 
 
 ___
