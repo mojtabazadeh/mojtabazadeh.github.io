@@ -58,7 +58,7 @@ ___
   * Optimization Method for Water-Flooded Beach-Bar Sand Bodies: A Case Study of the Fourth Member Red Beds of the Paleogene Shahejie Formation in the Dongying Depression
 
 
-* **Journal of Engineering Mathematics:** 1 reviews
+* **Journal of Engineering Mathematics:**
   * Scattering of shallow asymmetric V-shaped canyon under cylindrical SH-wave.
  
  
