@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-### Published & Accepted Papers
+### **Published & Accepted Papers**
 ___
 **27.** **[The Orthotropy Effect of Underground Inclusion on the Seismic Response of Ground Surface](https://drive.google.com/file/d/1gZ8aF2_FtYW0XBLlXkPnH97Sx1cUNRxv/view?usp=drive_link)**, [In Persian] (2024).  
     Published at [*Sharif Journal of Civil Engineering (SJCE)*](https://sjce.journals.sharif.edu/article_23630.html?lang=en)  
