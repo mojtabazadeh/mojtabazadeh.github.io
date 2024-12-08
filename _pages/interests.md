@@ -5,7 +5,7 @@ permalink: /interests/
 author_profile: true
 ---
 
-### Research Interests and Focus Areas
+### **Research Interests and Focus Areas**
 ___
 * Time-domain boundary element method (BEM).
 * Numerical modeling in geotechnical engineering.
