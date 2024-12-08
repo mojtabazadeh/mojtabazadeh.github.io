@@ -9,6 +9,7 @@ author_profile: true
 ___
 
 * **Buildings:**
+  * Research on axial compression mechanical property of outer square inner circular spontaneous combustion coal gangue concrete filled double steel tubular stub column.
   * Research on the Instability Mechanism and Control Technology of Gob-Side Entry in Deep Mine With Soft Rock.
   * A multi-point correlation model to predict and impute earth-rock dam displacement data for deformation monitoring.
   * Research on the 3D visualization method of web-based seismic wave CT results and the application in underground caverns.
@@ -55,7 +56,7 @@ ___
 
   
 * **Processes:**
-  * Optimization Method for Water-Flooded Beach-Bar Sand Bodies: A Case Study of the Fourth Member Red Beds of the Paleogene Shahejie Formation in the Dongying Depression
+  * Optimization Method for Water-Flooded Beach-Bar Sand Bodies: A Case Study of the Fourth Member Red Beds of the Paleogene Shahejie Formation in the Dongying Depression.
 
 
 * **Journal of Engineering Mathematics:**
