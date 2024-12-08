@@ -5,7 +5,7 @@ permalink: /websites/
 author_profile: true
 ---
 
-### **My Online Presence**
+### **My Digital Network**
 ___
 
   
