@@ -5,7 +5,7 @@ permalink: /awards/
 author_profile: true
 ---
 
-### Honors and Achievements
+### **Honors and Achievements**
 ___
 - **2024**, Acted as a reviewer for patent evaluations at the Science and Technology Park of Zanjan Province.
 - **2023**, Nominated as a candidate for the 12th term of the Islamic Consultative Assembly.
