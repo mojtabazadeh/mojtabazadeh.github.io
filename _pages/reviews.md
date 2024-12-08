@@ -5,7 +5,7 @@ permalink: /reviews/
 author_profile: true
 ---
 
-### Review Activity
+### **Review Activity**
 ___
 
 * **Buildings:**
