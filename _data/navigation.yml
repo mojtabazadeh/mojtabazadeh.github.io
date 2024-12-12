@@ -12,11 +12,14 @@ main:
   - title: "Moments of Glory"
     url: /awards/
 
-  - title: "Peer Reviews"
-    url: /reviews/
+  - title: "Certificates"
+    url: /certificates/
 
   - title: "Photo Gallery"
     url: /gallery/
+
+  - title: "Peer Reviews"
+    url: /reviews/
 
   - title: "My Online Presence"
     url: /websites/
