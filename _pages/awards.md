@@ -7,6 +7,7 @@ author_profile: true
 
 ### **Honors and Achievements**
 ___
+- **2024**, The selected postdoctoral researcher of the Engineering Group in Zanjan Province.
 - **2024**, Acted as a reviewer for patent evaluations at the Science and Technology Park of Zanjan Province.
 - **2023**, Nominated as a candidate for the 12th term of the Islamic Consultative Assembly.
 - **2022**, Awarded the Shahid Chamran Award by the National Elite Foundation.
