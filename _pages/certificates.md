@@ -1,36 +1,26 @@
 ---
 layout: archive
 title: ""
-permalink: /awards/
+permalink: /certificates/
 author_profile: true
 ---
 
-### Awards
+### **Recognitions and Accolades**
+___   
+
+
+* **Postdoctoral Certificate in Geotechnical Earthquake Engineering**    
+
 ___
 
-My work has received several recognitions, including:
+  ![Saeed Mojtabazadeh](https://github.com/mojtabazadeh/mojtabazadeh.github.io/blob/main/images/IMG1.jpg?raw=true)     
+  
+___
+  
+* **The selected postdoctoral researcher of the Engineering Group in Zanjan Province.**
+      
+___
 
-(*\** denotes honors or awards received by students)
-
-- 2024\* Finalist, Service Science Best Student Paper Competition
-
-- 2022 Winner, Towner Prize for Distinguished Academic Achievement   
-  *Rackham Graduate School, University of Michigan*
-
-- 2022 Winner, Rackham Outstanding Graduate Student Instructor Award   
-  *Rackham Graduate School, University of Michigan*
-
-- 2022 Finalist, CHOM Best Paper Competition (POMS) 
-
-- 2021 Rackham Graduate Research Grant  
-  *Rackham Graduate School, University of Michigan*
-
-- 2021 Winner, Richard C. Wilson Best Student Paper Award   
-  *IOE Department, University of Michigan*
-
-- 2020 Second Place, INFORMS Decision Analysis Society (DAS) Best Student Paper 
-
-- 2020 Finalist, INFORMS Seth Bonder Scholarship for Applied OR in Health Services 
-
-- 2020 Winner, Joel and L. Brown Graduate Student Instructor of the Semester 
-  *IOE Department, University of Michigan*
+ ![Saeed Mojtabazadeh](https://github.com/mojtabazadeh/mojtabazadeh.github.io/blob/main/images/IMG5.jpg?raw=true)    
+ 
+___
