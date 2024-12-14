@@ -9,7 +9,7 @@ author_profile: true
 ___   
 
 
-* **The selected postdoctoral researcher in Zanjan Province.**    
+* **The selected postdoctoral researcher in Zanjan Province**    
 
 ___
 
