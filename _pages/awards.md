@@ -9,6 +9,7 @@ author_profile: true
 ___
 - **2024**, The selected postdoctoral researcher of the Engineering Group in Zanjan Province.
 - **2024**, Awarded the Shahid Shahriari Award by the National Elite Foundation.
+- **2024**, Judge of the 7th National GeoWall Competition.
 - **2024**, Acted as a reviewer for patent evaluations at the Science and Technology Park of Zanjan Province.
 - **2023**, Nominated as a candidate for the 12th term of the Islamic Consultative Assembly.
 - **2023**, Awarded the Shahid Mousavi Award by the National Elite Foundation.
