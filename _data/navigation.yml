@@ -18,8 +18,8 @@ main:
   - title: "Photo Gallery"
     url: /gallery/
 
-  - title: "Peer Reviews"
-    url: /reviews/
+  # - title: "Peer Reviews"
+  #  url: /reviews/
 
   - title: "My Online Presence"
     url: /websites/
