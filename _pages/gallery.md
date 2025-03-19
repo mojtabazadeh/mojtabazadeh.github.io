@@ -13,6 +13,15 @@ ___
 
 ___
 
+  ![Saeed Mojtabazadeh](https://github.com/mojtabazadeh/mojtabazadeh.github.io/blob/main/images/IMG_20250318_102610_255.jpg?raw=true)     
+  
+___   
+
+
+* **Man of the Year in Zanjan Province; In the Science and Technology Section**    
+
+___
+
   ![Saeed Mojtabazadeh](https://github.com/mojtabazadeh/mojtabazadeh.github.io/blob/main/images/20250315_2235012.jpg?raw=true)     
   
 ___   
