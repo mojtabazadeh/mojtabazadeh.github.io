@@ -13,6 +13,7 @@ ___
 - **2024**, Acted as a reviewer for patent evaluations at the Science and Technology Park of Zanjan Province.
 - **2023**, Nominated as a candidate for the 12th term of the Islamic Consultative Assembly.
 - **2023**, Awarded the Shahid Mousavi Award by the National Elite Foundation.
+- **2022**, The exemplary youth of Zanjan Province, as recognized by the Youth Group of Eshraq TV.
 - **2022**, Awarded the Shahid Chamran Award by the National Elite Foundation.
 - **2022**, Recognized as the Outstanding Researcher at Islamic Azad University, Zanjan.
 - **2022**, Ranked first in the Faculty of Engineering, Technology, and Basic Sciences at the Ph.D. level.
