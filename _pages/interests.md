@@ -18,6 +18,6 @@ ___
   
 ___
 
-  ![The DASBEM Project](https://github.com/mojtabazadeh/mojtabazadeh.github.io/blob/main/images/The%20DASBEM%20Project%20Results.jpg?raw=true)    
+  ![Dr. Saeed Mojtabazadeh](https://github.com/mojtabazadeh/mojtabazadeh.github.io/blob/main/images/IMG_3651ededge.jpg?raw=true)    
 
 ___
