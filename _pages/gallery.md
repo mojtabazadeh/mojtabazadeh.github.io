@@ -9,6 +9,15 @@ author_profile: true
 ___   
 
 
+* **Intellectual Property Review Committee of Zanjan Science and Technology Park**    
+
+___
+
+  ![Saeed Mojtabazadeh](https://github.com/mojtabazadeh/mojtabazadeh.github.io/blob/main/images/1745662790996%20edited%20LQ3.jpg?raw=true)     
+     
+___   
+
+
 * **Recognition of the top researcher in Zanjan Province**    
 
 ___
