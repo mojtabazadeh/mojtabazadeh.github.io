@@ -13,7 +13,7 @@ ___
 
 ___
 
-  ![Saeed Mojtabazadeh](https://github.com/mojtabazadeh/mojtabazadeh.github.io/blob/main/images/1745662790996%20edited%20LQ3.jpg?raw=true)     
+  ![Saeed Mojtabazadeh](https://bayanbox.ir/view/8224987909492318643/1745662790996-edited-LQ3.jpg)     
      
 ___   
 
