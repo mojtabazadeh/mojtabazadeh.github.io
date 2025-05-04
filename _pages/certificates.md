@@ -13,7 +13,7 @@ ___
       
 ___
 
- ![Saeed Mojtabazadeh](https://github.com/mojtabazadeh/mojtabazadeh.github.io/blob/main/images/Postdoc-Certificate2.jpg?raw=true)    
+ ![Saeed Mojtabazadeh](https://bayanbox.ir/view/5856629002158852794/Postdoc-Certificate2.jpg)
  
 ___   
 
@@ -22,6 +22,6 @@ ___
       
 ___
 
- ![Saeed Mojtabazadeh](https://github.com/mojtabazadeh/mojtabazadeh.github.io/blob/main/images/20241220_163706.jpg?raw=true)    
+ ![Saeed Mojtabazadeh](https://bayanbox.ir/view/3846987412561924590/20241220-163706.jpg)
  
 ___
