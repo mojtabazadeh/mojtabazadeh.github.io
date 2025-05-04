@@ -18,6 +18,6 @@ ___
   
 ___
 
-  ![Dr. Saeed Mojtabazadeh](https://github.com/mojtabazadeh/mojtabazadeh.github.io/blob/main/images/IMG_3651ededge.jpg?raw=true)    
+  ![Dr. Saeed Mojtabazadeh](https://bayanbox.ir/view/6999303516554110501/IMG-3651ededge.jpg)    
 
 ___
