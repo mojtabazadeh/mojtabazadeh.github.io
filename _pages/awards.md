@@ -27,6 +27,6 @@ ___
   
 
 ___
-  ![Saeed Mojtabazadeh](https://github.com/mojtabazadeh/mojtabazadeh.github.io/blob/main/images/Final2.jpg?raw=true)    
+  ![Saeed Mojtabazadeh](https://bayanbox.ir/view/4611071818813013969/Final2.jpg)    
 
   ___
