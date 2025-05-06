@@ -12,7 +12,7 @@ ___
 
 ___
 
-<a href="http://www.instagalley.ir/" target="_blank">
+<a href="http://www.instagallery.ir/" target="_blank">
     <img src="https://bayanbox.ir/view/3424700855600774432/www.instagallery.ir.jpg" alt="Saeed Mojtabazadeh" />
 </a>
 
