@@ -7,7 +7,7 @@ author_profile: true
 
 ### **Honors and Achievements**
 ___
-- **2024**, The Man of the Year in Zanjan Province, as recognized by the Ministry of Sports and Youth.
+- **2025**, The Man of the Year in Zanjan Province, as recognized by the Ministry of Sports and Youth.
 - **2024**, The selected postdoctoral researcher of the Engineering Group in Zanjan Province.
 - **2024**, The top researcher of the Islamic Azad University, Zanjan Province.
 - **2024**, Awarded the Shahid Shahriari Award by the National Elite Foundation.
